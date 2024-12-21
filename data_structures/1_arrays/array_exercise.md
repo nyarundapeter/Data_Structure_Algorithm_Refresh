@@ -1,3 +1,6 @@
+# Referal Notes: 
+[Link to Notion](https://peternyarunda.notion.site/Arrays-163523424cee80c9918bdf241e3aeab9?pvs=4)
+
 # Exercise: Array DataStructure
 
 1. Let us say your expense for every month are listed below,
