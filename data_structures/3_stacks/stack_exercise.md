@@ -1,3 +1,5 @@
+[Study Notes](https://peternyarunda.notion.site/Stack-164523424cee804fb69bdd8630b5684d?pvs=4)
+
 ## Data structure tutorial exercise: Stack
 1. Write a function in python that can reverse a string using stack data structure. 
     ```
