@@ -29,7 +29,6 @@ Now make following calls,
     ll.remove_by_value("grapes")
     ll.print()
 ```
-[Solution](https://github.com/codebasics/data-structures-algorithms-python/blob/master/data_structures/3_LinkedList/Solution/singly_linked_list_exercise.py)
 
 2. Implement doubly linked list. The only difference with regular linked list is that double linked has prev node reference as well. That way you can iterate in forward and backward direction.
 Your node class will look this this,
@@ -48,6 +47,5 @@ def print_forward(self):
 def print_backward(self):
     # Print linked list in reverse direction. Use node.prev for this.
 ```
-Implement all other methods in [regular linked list class](https://github.com/codebasics/data-structures-algorithms-python/blob/master/data_structures/3_LinkedList/3_linked_list.py) and make necessary changes for doubly linked list (you need to populate node.prev in all those methods)
+Implement all other methods in [regular linked list class] and make necessary changes for doubly linked list (you need to populate node.prev in all those methods)
 
-[Solution](https://github.com/codebasics/data-structures-algorithms-python/blob/master/data_structures/3_LinkedList/Solution/doubly_linked_list_exercise.py)

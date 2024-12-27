@@ -6,7 +6,7 @@
     reverse_string("We will conquere COVID-19") should return "91-DIVOC ereuqnoc lliw eW"
     ```
 
-2. Write a function in python that checks if paranthesis in the string are balanced or not. Possible parantheses are "{}',"()" or "[]". 
+2. Write a function in python that checks if parenthesis in the string are balanced or not. Possible parentheses are "{}',"()" or "[]". 
     ```
     is_balanced("({a+b})")     --> True
     is_balanced("))((a+b}{")   --> False
